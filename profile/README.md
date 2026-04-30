@@ -7,6 +7,7 @@ A mythic‑tech operating system ecosystem focused on identity, structure, and s
 The following system identities are part of the AETHERION CONSOLIDATED™ ecosystem:
 
 - **AETHERION OS™** — The sovereign operating‑system identity layer — defining structure, continuity, clarity, and the mythic‑tech architecture that governs all AETHERION subsystems.
+- **AUREXIS™** — The sovereign cognition engine — the interpretive intelligence layer that governs consent, symbolic reasoning, system awareness, and the cognitive architecture of the AETHERION OS. 
 - **AETHERION Pulse™** — The system’s living heartbeat — governing alerts, notifications, internal states, behavioural cycles, resonance patterns, and the real‑time telemetry that keeps the AETHERION ecosystem aware and alive.
 - **AETHERION Identity Palette™** — The unified identity‑architecture framework — defining symbols, glyphs, naming conventions, visual language, and the cross‑system identity grammar of AETHERION.
 - **AETHERION ChronaFlux™** — Temporal rhythm & behavioural flux system — mapping cognitive cycles, focus states, and time‑based performance patterns.
