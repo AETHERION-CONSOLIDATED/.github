@@ -49,7 +49,7 @@ To maintain legal and identity integrity:
 - Do **not** alter original files  
 - Do **not** remove or overwrite assets  
 - Add new assets only when they serve org‑wide identity needs  
-- Update `assets_index.md` when adding or removing files  
+- Update `ASSETS_INDEX.md` when adding or removing files  
 
 ---
 
